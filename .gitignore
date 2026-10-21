@@ -1,0 +1,12 @@
+# PDF and document files
+*.pdf
+*.doc
+*.docx
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
