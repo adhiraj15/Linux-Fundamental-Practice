@@ -1,6 +1,24 @@
 # Linux Fundamentals Practice
 
+
+![Platform](https://img.shields.io/badge/Platform-Linux-orange?logo=linux)
+![Shell](https://img.shields.io/badge/Shell-Bash-green?logo=gnubash)
+![Documentation](https://img.shields.io/badge/Documentation-Practical%20Labs-blue)
+
+
 A hands-on Linux administration project covering command-line operations, file management, user administration, permissions, storage analysis, web server setup, and troubleshooting.
+
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Practical Tasks](#practical-tasks)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Tools and Technologies](#tools-and-technologies)
+- [What I Learned](#what-i-learned)
+- [Repository Structure](#repository-structure)
+- [Project Purpose](#project-purpose)
+
 
 ## Project Overview
 
